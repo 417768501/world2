@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans> 
+  <bean id="userDao" class="com.hc.dao.UserDaoImpl"/>  
+  <bean id="itemsDao" class="com.hc.dao.ItemsDaoImpl"/>  
+  <bean id="personDao"/>
+  <bean id="personDao"/>  
+  <bean id="itemsDao" class="汉字测试"/>  
+  <bean id="personDao" class="com.hc.dao.PersonDaoImpl"/>
+</beans>

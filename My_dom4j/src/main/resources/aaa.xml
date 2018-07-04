@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+	<teacher id="10">
+		<name>du</name>
+		<sex>male</sex>
+	</teacher>
+	<teacher id="20">
+		<name>zhang</name>
+		<sex>male</sex>
+	</teacher>
+	<teacher id="30">
+		<name>你好</name>
+		<sex>田</sex>
+	</teacher>
+</teachers>
